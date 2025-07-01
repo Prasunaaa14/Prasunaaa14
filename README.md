@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasuna Shrestha</h1>
-<h3 align="center">A passionate full stack developer from Nepal. BSc (Hons) IT student at Itahari International College | Passionate about software development, web technologies, and problem-solving | Exploring Java, Python, and Django. I'm a dedicated BSc (Hons) IT student at Itahari International College with a strong interest in programming, web development, and real-world tech solutions. I enjoy learning new technologies and applying them through practical projects.</h3>
+<h3 align="center">A passionate full stack developer from Nepal. Passionate about software development, web technologies, and problem-solving | Exploring Java, Python, and Django. I'm a dedicated BSc (Hons) IT student at Itahari International College with a strong interest in programming, web development, and real-world tech solutions. I enjoy learning new technologies and applying them through practical projects.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prasunaaa14](https://github.com/Prasunaaa14)
 
